@@ -1,3 +1,7 @@
 # Python for introduction of algorithm
 
 Introduction to algorithm in 4th version by python
+
+## 1, Recurrence Analysis
+
+* Insertion Sort with Complexity $O(n^2)$, refer to [insertion_sort.py](0_recurrence/insert_sort.py)
